@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanay280/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanay280/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/tanay280/DSA-Practice/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/tanay280/DSA-Practice/tree/master/0204-count-primes) |
 ## Two Pointers
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanay280/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanay280/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
