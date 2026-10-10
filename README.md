@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/tanay280/DSA-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tanay280/DSA-Practice/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/tanay280/DSA-Practice/tree/master/0204-count-primes) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tanay280/DSA-Practice/tree/master/0075-sort-colors) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanay280/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanay280/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanay280/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +90,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanay280/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
