@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/tanay280/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/tanay280/DSA-Practice/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/tanay280/DSA-Practice/tree/master/0204-count-primes) |
 ## Enumeration
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanay280/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/tanay280/DSA-Practice/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
