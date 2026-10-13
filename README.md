@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanay280/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tanay280/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tanay280/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanay280/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tanay280/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/tanay280/DSA-Practice/tree/master/0066-plus-one) |
@@ -19,12 +20,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanay280/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tanay280/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tanay280/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tanay280/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tanay280/DSA-Practice/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanay280/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tanay280/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/tanay280/DSA-Practice/tree/master/0075-sort-colors) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanay280/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
