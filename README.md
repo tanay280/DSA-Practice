@@ -16,6 +16,7 @@
 | [0204-count-primes](https://github.com/tanay280/DSA-Practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tanay280/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanay280/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -26,6 +27,7 @@
 | [0016-3sum-closest](https://github.com/tanay280/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tanay280/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tanay280/DSA-Practice/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tanay280/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/tanay280/DSA-Practice/tree/master/0090-subsets-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tanay280/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
