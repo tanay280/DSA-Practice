@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/tanay280/DSA-Practice/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/tanay280/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/tanay280/DSA-Practice/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/tanay280/DSA-Practice/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/tanay280/DSA-Practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanay280/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/tanay280/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/tanay280/DSA-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tanay280/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Backtracking
