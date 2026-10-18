@@ -57,6 +57,7 @@
 | [0066-plus-one](https://github.com/tanay280/DSA-Practice/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/tanay280/DSA-Practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/tanay280/DSA-Practice/tree/master/2235-add-two-integers) |
 ## Enumeration
 |  |
 | ------- |
