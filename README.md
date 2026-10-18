@@ -14,6 +14,7 @@
 | [0090-subsets-ii](https://github.com/tanay280/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/tanay280/DSA-Practice/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/tanay280/DSA-Practice/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanay280/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanay280/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanay280/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,4 +145,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanay280/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
