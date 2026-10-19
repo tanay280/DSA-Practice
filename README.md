@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanay280/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tanay280/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanay280/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanay280/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -42,6 +43,7 @@
 | [0075-sort-colors](https://github.com/tanay280/DSA-Practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanay280/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tanay280/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanay280/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanay280/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -115,6 +117,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanay280/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tanay280/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
