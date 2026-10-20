@@ -21,6 +21,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanay280/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanay280/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -46,6 +47,7 @@
 | [0075-sort-colors](https://github.com/tanay280/DSA-Practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanay280/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanay280/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -144,6 +146,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanay280/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanay280/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
