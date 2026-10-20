@@ -28,6 +28,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanay280/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanay280/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/tanay280/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanay280/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanay280/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -72,6 +73,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tanay280/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tanay280/DSA-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/tanay280/DSA-Practice/tree/master/2235-add-two-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/tanay280/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/tanay280/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanay280/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
@@ -184,4 +187,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/tanay280/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
