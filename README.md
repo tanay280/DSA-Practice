@@ -26,6 +26,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanay280/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/tanay280/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/tanay280/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanay280/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanay280/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/tanay280/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/tanay280/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
