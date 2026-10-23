@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanay280/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/tanay280/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/tanay280/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -73,6 +74,7 @@
 | [0066-plus-one](https://github.com/tanay280/DSA-Practice/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/tanay280/DSA-Practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tanay280/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tanay280/DSA-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/tanay280/DSA-Practice/tree/master/2235-add-two-integers) |
@@ -155,6 +157,7 @@
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/tanay280/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanay280/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
@@ -183,6 +186,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tanay280/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/tanay280/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/tanay280/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
@@ -197,4 +201,8 @@
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/tanay280/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
