@@ -105,6 +105,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanay280/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanay280/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tanay280/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanay280/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanay280/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanay280/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Bit Manipulation
 |  |
 | ------- |
