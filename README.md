@@ -27,6 +27,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanay280/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/tanay280/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/tanay280/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/tanay280/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanay280/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -142,6 +143,7 @@
 | [0042-trapping-rain-water](https://github.com/tanay280/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tanay280/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanay280/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0931-minimum-falling-path-sum](https://github.com/tanay280/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0931-minimum-falling-path-sum](https://github.com/tanay280/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/tanay280/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Pigeonhole Principle
 |  |
