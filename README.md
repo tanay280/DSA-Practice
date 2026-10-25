@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/tanay280/DSA-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tanay280/DSA-Practice/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/tanay280/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/tanay280/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanay280/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/tanay280/DSA-Practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/tanay280/DSA-Practice/tree/master/0136-single-number) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanay280/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tanay280/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0118-pascals-triangle](https://github.com/tanay280/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanay280/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0931-minimum-falling-path-sum](https://github.com/tanay280/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 ## Monotonic Stack
