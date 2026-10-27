@@ -78,6 +78,7 @@
 | [0066-plus-one](https://github.com/tanay280/DSA-Practice/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/tanay280/DSA-Practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/tanay280/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tanay280/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tanay280/DSA-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -149,6 +150,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanay280/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/tanay280/DSA-Practice/tree/master/0174-dungeon-game) |
 | [0416-partition-equal-subset-sum](https://github.com/tanay280/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0509-fibonacci-number](https://github.com/tanay280/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/tanay280/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 ## Monotonic Stack
 |  |
@@ -225,4 +227,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/tanay280/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tanay280/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tanay280/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
