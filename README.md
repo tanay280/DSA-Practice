@@ -76,6 +76,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanay280/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/tanay280/DSA-Practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/tanay280/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/tanay280/DSA-Practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/tanay280/DSA-Practice/tree/master/0509-fibonacci-number) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanay280/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tanay280/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/tanay280/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanay280/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanay280/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/tanay280/DSA-Practice/tree/master/0174-dungeon-game) |
@@ -234,5 +236,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tanay280/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tanay280/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
