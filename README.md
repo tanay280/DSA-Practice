@@ -29,6 +29,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/tanay280/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanay280/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/tanay280/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/tanay280/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
@@ -154,6 +155,7 @@
 | [0174-dungeon-game](https://github.com/tanay280/DSA-Practice/tree/master/0174-dungeon-game) |
 | [0416-partition-equal-subset-sum](https://github.com/tanay280/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/tanay280/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/tanay280/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/tanay280/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/tanay280/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 ## Monotonic Stack
