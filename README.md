@@ -31,6 +31,7 @@
 | [0523-continuous-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanay280/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/tanay280/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/tanay280/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/tanay280/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/tanay280/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanay280/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -154,6 +155,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/tanay280/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/tanay280/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/tanay280/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/tanay280/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -225,10 +227,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/tanay280/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/tanay280/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/tanay280/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/tanay280/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 ## Recursion
 |  |
 | ------- |
