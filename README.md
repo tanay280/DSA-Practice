@@ -20,6 +20,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanay280/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tanay280/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/tanay280/DSA-Practice/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/tanay280/DSA-Practice/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/tanay280/DSA-Practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -153,6 +154,7 @@
 | [0118-pascals-triangle](https://github.com/tanay280/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanay280/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/tanay280/DSA-Practice/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/tanay280/DSA-Practice/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/tanay280/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/tanay280/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanay280/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
