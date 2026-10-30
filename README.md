@@ -26,6 +26,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/tanay280/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/tanay280/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/tanay280/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanay280/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -146,6 +147,7 @@
 | [0162-find-peak-element](https://github.com/tanay280/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanay280/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tanay280/DSA-Practice/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/tanay280/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanay280/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanay280/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
@@ -158,6 +160,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanay280/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/tanay280/DSA-Practice/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/tanay280/DSA-Practice/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/tanay280/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/tanay280/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/tanay280/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanay280/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -257,4 +260,8 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/tanay280/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/tanay280/DSA-Practice/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/tanay280/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
