@@ -78,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tanay280/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/tanay280/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/tanay280/DSA-Practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tanay280/DSA-Practice/tree/master/0070-climbing-stairs) |
