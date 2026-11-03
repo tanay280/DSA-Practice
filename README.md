@@ -47,6 +47,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/tanay280/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanay280/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanay280/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanay280/DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tanay280/DSA-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/tanay280/DSA-Practice/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/tanay280/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanay280/DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
